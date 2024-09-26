@@ -15,11 +15,11 @@
   ],
   "coinType": 60,
   "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
-  "website": "",
+  "website": "https://rollapp.jembutkucing.tech",
   "logo": "/logos/jembutkucing_9748260-1.png",
   "ibc": {
-    "hubChannel": "channel-5394",
-    "channel": "channel-0",
+    "hubChannel": "channel-8114",
+    "channel": "channel-1",
     "timeout": 172800000
   },
   "evm": {
@@ -28,6 +28,8 @@
   },
   "type": "RollApp",
   "da": "Avail",
-  "description": "",
-  "analytics": true
+  "description": "Test Jembut Rollapp",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5GeQCSk7gsNo8zTiuscnCgjSThraYweYKx4qZZxCy6tkCd4o"
 }
